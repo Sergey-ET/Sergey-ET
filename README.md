@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Sergey Troshkin!
-- 👀 I’m interested in web development.
-- 🌱 I’m currently studying for Frontend Developer.
+- 👋 Hi, my name is Sergey Troshkin!
+- 👀 I'm Frontend Developer
 - 📫 You can reach me via email: sergey_troshkin@hotmail.com
 
 <!---
